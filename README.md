@@ -1,16 +1,12 @@
 # tera
-No-Code Smart Factory System for Production Experts
+### No-Code Smart Factory System for Production Experts
 
 ### 호수아이오가 노코딩 스마트팩토리 시대를 시작합니다.
 
 하나. 생산 전문가/컨설턴트 중심의 스마트팩토리 구축 선언
-
 둘. 코딩없이, java, c, 파이썬을 몰라도 만들 수 있는 스마트팩토리 시스템
-
 셋. 최소의 구축비용, 유지보수 비용 걱정없는 전문화된 시스템
-
 넷. IoT/설비(LS/미쯔비시 PLC, MODUBUS, Socket 등) 연동, 생산 스케줄링은 기본, 기존시스템 연계를 위한 OpenAPI 제공.
-
 다섯. 그래 문제는 데이터다!!! 우리회사는 먼저 고도화된 AI 팩토리로 간다.
 
 
@@ -33,3 +29,12 @@ No-Code Smart Factory System for Production Experts
 2. 유지보수가 어려운 사이트. 또는 잘 운영되고 있지만 기존 시스템을 변경하지 않고 기능을 확장하고자 하는 경우.
 3. 시스템 설계는 다 되어 있으나 구현할 엔지니어 확보에 어려움을 겪고있는 경우 등.
 
+   
+### 설치 방법
+
+설치 방법
+1. nginx 프로그램을 다운받아 c: 폴더에 푼다.
+http://nginx.org/download/nginx-1.24.0.zip
+2. tera 폴더를 다운로드하여  html 폴더 및에 푼다.
+3. nginx.exe 실행
+4. 브라우저에서 에서 http://localhost/tera  로 접속
