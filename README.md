@@ -32,7 +32,6 @@
    
 ### 설치 방법
 
-설치 방법
 1. nginx 프로그램을 다운받아 c: 폴더에 푼다.
 http://nginx.org/download/nginx-1.24.0.zip
 2. tera 폴더를 다운로드하여  html 폴더 및에 푼다.
